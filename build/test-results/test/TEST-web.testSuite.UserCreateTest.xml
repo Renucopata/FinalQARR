@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="web.testSuite.UserCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T22:28:32" hostname="RENUCOV" time="14.606">
+<testsuite name="web.testSuite.UserCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T22:58:20" hostname="RENUCOV" time="16.479">
   <properties/>
-  <testcase name="createLoginCreateFailTest()" classname="web.testSuite.UserCreateTest" time="14.606"/>
+  <testcase name="createLoginCreateFailTest()" classname="web.testSuite.UserCreateTest" time="16.479"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
